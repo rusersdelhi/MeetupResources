@@ -10,17 +10,15 @@ After few weeks of roaming in the woods, we took this initiative to re-start and
 
 We've always encouraged people within the community to share their work, learning, problems and situations they're stuck at, after all, this is what the community stands for, but for our initial meetup we reached out to some amazing people, who were active and were doing some exceptional and required work for the R community in general, and luckily we got in touch with some of them, and they happily agreed to share their journeys with our community. We must say that one quality that stands out among all R communities is the openness and warmth among all its members.
 
-#### Ohh, folks managed to meet again in 2018 🎉
+#### And our folks managed to meet again in 2018 🎉
 We ended the year 2018, with our second meetup in December, again at the SocialCops HQ's, and thanks to all speakers, we collected some excellent resources for the community in general from the meetup. 
-
-#### Some Important News 📢
 
 But unfortunately, there hasn't been much activity from the group since then. We've identified a few reasons for this, which we can definitely work and rectify for the betterment of the community, so we can start once again in the second phase of 2019. But we need all your help and support.
 
+#### Some Important News 📢
 We are planning to organize our road-ahead meeting on **20th July 2019** in Delhi where we plan to discuss our experiences till now, our plans for the future, setup a calendar for future events, and find task specific leaders within the community so that we all can take it forward together. If you've made it this far and you really want to do something for this small community, we encourage you to please response to this post and let us know your interest towards attending this meetup. We'll share the venue details as soon as we have an approximate count of people who would like to join.
 
-#### Plannig for a better future 🌱
-
+#### Planning for a better future 🌱
 Apart from this, we also have some really exciting updates and invitations to share with you all from a few conferences. We also plan to encourage people within our community to apply even for international conferences, and we would like to discuss our plans for the same. Well, we know it's a lot to discuss but its celebration time when we're all working towards a common goal, and we'll do this together.
 
 #### Our partners 🤝
