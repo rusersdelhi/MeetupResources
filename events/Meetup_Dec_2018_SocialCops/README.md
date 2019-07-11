@@ -1,4 +1,4 @@
-[!Meetup_Announcement](https://secure.meetupstatic.com/photos/event/a/f/1/c/highres_476684828.jpeg)
+![Meetup_Announcement](https://secure.meetupstatic.com/photos/event/a/f/1/c/highres_476684828.jpeg)
 
 ### Speakers
 
