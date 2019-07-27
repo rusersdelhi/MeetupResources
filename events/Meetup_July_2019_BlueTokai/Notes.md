@@ -1,4 +1,7 @@
+> To discuss the road ahead for RuseRsDelhi and assign roles and responsibilities
+
 *Date: **20/07/19***
+
 *Venue: **Blue Tokai, Saket, Delhi***
 
 ## Attendees:
@@ -11,8 +14,6 @@
 - Shrishti - An amazing student of commerce
 - Vivek Sharma - PWC
 - Vishal - noon.com
-
-## Objective - To discuss the road ahead for RuseRsDelhi and assign roles and responsibilities
 
 ## Notes:
 
@@ -30,6 +31,7 @@
 ### Some, mutually agreed upon, priority areas
 
 - Keeping the community active
+
   - Communication among the core team members, be it online or offline
   - Setting up channels for communication
   - More frequent offline activities
@@ -39,7 +41,9 @@
   - Members share how can they be valuable to the community
   - Can the core members have bi-weekly calls to discuss progress, share learnings, etc ?
 
+
 - Content and Other resources around R/Data/Learning
+ 
  - Exploring ways to keep on generating internal content resources for the community | Can we find ways to bridge our side projects/things we learn with the community work
  - Start a blog & every member contributes to it in some way
  - Define a short term learning path for the group (Datasets/Packages/Techniques)
@@ -76,6 +80,6 @@
 - Write a blog on the first meetup - Vishal
 - Finalize date for the next call and share details - Vivek
 - Articulate assigned responsibilities - create a short term plan - @everyone
-
+- Everyone presence on community channels (Slack/Github/Twitter) - @everyone
 
 
