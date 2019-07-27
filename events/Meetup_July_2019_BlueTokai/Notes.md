@@ -61,7 +61,7 @@
 - Blog for the meetup - Vivek & Apoorv
 - Github - Apoorv
 - Content Document - Himanshu
-- Communication with Rladies / Other useR groups - Shrisht
+- Communication with Rladies / Other useR groups - Shrishti
 
 #### Operations
 
