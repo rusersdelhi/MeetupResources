@@ -72,11 +72,11 @@
 
 ### Action Items:
 
-- [] Add slide decks for past meetups - Shilpa
-- [] Share notes with the team - Apoorv
-- [] Write a blog on the first meetup - Vishal
-- [] Finalize date for the next call and share details - Vivek
-- [] Articulate assigned responsibilities - create a short term plan - @everyone
-- [] Everyone presence on community channels (Slack/Github/Twitter) - @everyone
+[] Add slide decks for past meetups - Shilpa
+[] Share notes with the team - Apoorv
+[] Write a blog on the first meetup - Vishal
+[] Finalize date for the next call and share details - Vivek
+[] Articulate assigned responsibilities - create a short term plan - @everyone
+[] Everyone presence on community channels (Slack/Github/Twitter) - @everyone
 
 
