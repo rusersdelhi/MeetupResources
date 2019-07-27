@@ -58,7 +58,6 @@
 
 #### Knowledge Sharing
 
-- Add slide decks for past meetups - Shilpa
 - Blog for the meetup - Vivek & Apoorv
 - Github - Apoorv
 - Content Document - Himanshu
@@ -73,6 +72,7 @@
 
 ### Action Items:
 
+- Add slide decks for past meetups - Shilpa
 - Share notes with the team - Apoorv
 - Write a blog on the first meetup - Vishal
 - Finalize date for the next call and share details - Vivek
