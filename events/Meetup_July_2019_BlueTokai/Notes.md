@@ -58,6 +58,7 @@
 
 #### Knowledge Sharing
 
+- Add slide decks for past meetups - Shilpa
 - Blog for the meetup - Vivek & Apoorv
 - Github - Apoorv
 - Content Document - Himanshu
