@@ -31,7 +31,6 @@
 ### Some, mutually agreed upon, priority areas
 
 - Keeping the community active
-
   - Communication among the core team members, be it online or offline
   - Setting up channels for communication
   - More frequent offline activities
@@ -40,17 +39,14 @@
   - Each member thinks of how to make the best use of this community and acts accordingly. Take responsibility for your own learning
   - Members share how can they be valuable to the community
   - Can the core members have bi-weekly calls to discuss progress, share learnings, etc ?
-
-
 - Content and Other resources around R/Data/Learning
- 
- - Exploring ways to keep on generating internal content resources for the community | Can we find ways to bridge our side projects/things we learn with the community work
- - Start a blog & every member contributes to it in some way
- - Define a short term learning path for the group (Datasets/Packages/Techniques)
- - Sector specific learning such as Public Data | Healthcare | Education, etc
- - Offline/Online hackathons
- - Know-how of how to write quality and efficient R code
- - More content around task specific packages 
+  - Exploring ways to keep on generating internal content resources for the community | Can we find ways to bridge our side projects/things we learn with the community work
+  - Start a blog & every member contributes to it in some way
+  - Define a short term learning path for the group (Datasets/Packages/Techniques)
+  - Sector specific learning such as Public Data | Healthcare | Education, etc
+  - Offline/Online hackathons
+  - Know-how of how to write quality and efficient R code
+  - More content around task specific packages 
 
 ### Roles and Responsibilities
 
